@@ -97,9 +97,7 @@ export default function NotesApp() {
         ))}
       </div>
   
-      <footer className="mt-10 text-gray-500 text-sm">
-        Built with 💜 by <span className="font-semibold text-purple-600">Esther</span>
-      </footer>
+      
     </div>
       
   );
